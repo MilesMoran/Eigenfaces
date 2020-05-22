@@ -1,5 +1,5 @@
 # Eigenfaces
-a more friendly, intuitive introduction to pattern recognition
+an intuitive introduction to pattern recognition
 
 #### Table of Contents
 1. [Understanding Data](#understanding-data)
